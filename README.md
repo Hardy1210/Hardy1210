@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 </table>
 <!--- stats (end) -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) ![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) [![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)](https://www.hardylino.com/)
+
 
 
 
