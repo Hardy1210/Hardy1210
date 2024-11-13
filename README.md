@@ -3,7 +3,7 @@
 ### Développeur Frontend 
 Ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend.<br/>
 ### Languages
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 
