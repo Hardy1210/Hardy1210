@@ -1,6 +1,5 @@
 # Hey ! bienvenue sur ma page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-### Je m'appelle **Hardy Lino**,
-### Développeur Frontend 
+### Je m'appelle **Hardy Lino**,  Développeur Frontend 
 Ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend.<br/>
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
