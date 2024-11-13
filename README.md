@@ -1,4 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## Hey ! je m'appelle Hardy Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+### 👨‍💻 Développeur Frontend
+ Ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend.
 
 <!--
 **Hardy1210/Hardy1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
