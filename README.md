@@ -1,5 +1,5 @@
 ## Hey ! je m'appelle Hardy Lino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-Développeur Frontend
+Développeur Frontend <br/>
  Ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend.
 
 <!--
