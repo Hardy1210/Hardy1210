@@ -1,6 +1,10 @@
-# Hey ! bienvenue sur ma page <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-### Je m'appelle **Hardy Lino**,  Développeur Frontend 
-Ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend. un domaine qui m'a toujours fasciné.<br/>
+# Bienvenue sur mon profil ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+### Qui suis-je ?
+Je m'appelle Hardy LINO, ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend. un domaine qui m'a toujours passionné.<br/>
+### 🔍 Ce que je recherche
+🎯 Objectif : Intégrer une équipe en tant que développeur frontend (ou autre poste ciblé) pour contribuer immédiatement et continuer d'apprendre.<br/>
+👔 Disponibilité : Immédiate. Je suis prêt à m’investir dans un projet stimulant et à apporter mon savoir-faire.<br/>
+##🛠️ Compétences
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ### Technologies
