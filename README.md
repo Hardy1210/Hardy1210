@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ### Qui suis-je ?
-Je m'appelle Hardy LINO, ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend. un domaine qui m'a toujours passionné.<br/>
+Je m'appelle **Hardy LINO**, ancien **responsable** de magasin et **professeur** de guitare classique, je me suis reconverti dans le **développement frontend**. un domaine qui m'a toujours **passionné**.<br/>
 ### 🔍 Ce que je recherche
 🎯 **Objectif** : Intégrer une équipe en tant que développeur frontend pour contribuer immédiatement et continuer d'apprendre.<br/><br/>
 👔 **Disponibilité** : Immédiate. Je suis prêt à m’investir dans un projet stimulant et à apporter mon savoir-faire.<br/><br/>
