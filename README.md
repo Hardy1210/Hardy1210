@@ -10,7 +10,6 @@ Ancien responsable de magasin et professeur de guitare classique, je me suis rec
 
 
 
-### 🌱 I’m currently learning ...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardy1210&layout=compact&theme=dark)
@@ -24,6 +23,7 @@ Ancien responsable de magasin et professeur de guitare classique, je me suis rec
 
 Here are some ideas to get you started:
 
+### 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 --> 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) [![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)](https://www.hardylino.com/)
+### N'hésitez pas à me contacter sur...
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) [![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)](https://www.hardylino.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardy1210)
 
 
 
