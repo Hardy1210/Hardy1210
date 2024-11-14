@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br>
 --> 
 <br/>
+
 ### N'hésitez pas à me contacter sur...
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) [![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)](https://www.hardylino.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardy1210)
 
