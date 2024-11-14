@@ -3,7 +3,7 @@
 Je m'appelle Hardy LINO, ancien responsable de magasin et professeur de guitare classique, je me suis reconverti dans le développement frontend. un domaine qui m'a toujours passionné.<br/>
 ### 🔍 Ce que je recherche
 🎯 **Objectif** : Intégrer une équipe en tant que développeur frontend pour contribuer immédiatement et continuer d'apprendre.<br/><br/>
-👔 Disponibilité : Immédiate. Je suis prêt à m’investir dans un projet stimulant et à apporter mon savoir-faire.<br/><br/>
+👔 **Disponibilité** : Immédiate. Je suis prêt à m’investir dans un projet stimulant et à apporter mon savoir-faire.<br/><br/>
 ## 🛠️ Compétences
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
