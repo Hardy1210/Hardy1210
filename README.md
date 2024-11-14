@@ -16,6 +16,11 @@ Ancien responsable de magasin et professeur de guitare classique, je me suis rec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardy1210&layout=compact&theme=dark)
 <!--
 **Hardy1210/Hardy1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ mario
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+</p> 
 
 Here are some ideas to get you started:
 
@@ -30,9 +35,7 @@ Here are some ideas to get you started:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 --> 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-</p> 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardy-lino-4b5247297/) [![Static Badge](https://img.shields.io/badge/hardylino.com-%23343131?style=for-the-badge)](https://www.hardylino.com/)
 
 
