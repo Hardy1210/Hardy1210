@@ -10,7 +10,7 @@ Ancien responsable de magasin et professeur de guitare classique, je me suis rec
 
 
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardy1210&layout=compact&theme=dark)
